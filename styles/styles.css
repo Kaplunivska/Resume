@@ -48,7 +48,7 @@ body {
     font-size: 14px;
     line-height: 24px;
     color: #595959;
-    width: 400px;
+    width: 580px;
 }
 
 /* projects styles */
@@ -64,6 +64,10 @@ margin-bottom: 50px;
     line-height: 27px;
     color: #000000;  
     margin-bottom: 10px;
+}
+
+.project-title {
+    color: rgba(2, 158, 8, 0.904);
 }
 
 .projects-list {
@@ -88,7 +92,6 @@ margin-bottom: 50px;
     line-height: 24px;
     color: #595959;
     margin-left: 10px;
-    text-decoration:none;
 }
 
 .project-bracket {
@@ -97,6 +100,7 @@ margin-bottom: 50px;
     font-size: 14px;
     line-height: 24px;
     color: #000000;
+    margin-left:5px;
 }
 
 /* work styles */
@@ -175,7 +179,6 @@ margin-left: 15px;
 /* sidebar styles */
 .sidebar {
     background-color: #1E2939;
-    padding-top: 40px;
     width: 370px;
 }
 
@@ -221,8 +224,7 @@ margin-left: 15px;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    color: #A8A8A8;
-    text-decoration:none;
+    color: #FFFFFF;
 }
 
 .contact-number {
